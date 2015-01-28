@@ -1,0 +1,35 @@
+{
+"resources":
+	[
+		{"name":"gzyx","type":"sheet","url":"assets/gzyx.json"},
+		{"name":"hero_json","type":"json","url":"assets/hero_mc.json"},
+		{"name":"hero_mc_img","type":"image","url":"assets/hero_mc.png"},
+		{"name":"gzyx_img1","type":"sheet","url":"assets/gzyx_img1.json"},
+		{"name":"gzyx_img2","type":"sheet","url":"assets/gzyx_img2.json"},
+
+		{"name":"bgImage_1","type":"image","url":"assets/bg_1.png"},
+		{"name":"frontImage_1","type":"image","url":"assets/front_1.png"},
+
+		{"name":"bgImage_2","type":"image","url":"assets/bg_2.png"},
+		{"name":"frontImage_2","type":"image","url":"assets/front_2.png"},
+
+		{"name":"bgImage_3","type":"image","url":"assets/bg_3.png"},
+		{"name":"frontImage_3","type":"image","url":"assets/front_3.png"},
+
+		{"name":"bgImage_4","type":"image","url":"assets/bg_4.png"},
+		{"name":"frontImage_4","type":"image","url":"assets/front_4.png"},
+
+		{"name":"bgImage_5","type":"image","url":"assets/bg_5.png"},
+		{"name":"frontImage_5","type":"image","url":"assets/front_5.png"},
+
+		{"name":"game_over_bg_Image","type":"image","url":"assets/game_over_bg_img.png"}
+	],
+
+"groups":
+	[
+        {
+        	"name":"preload",
+        	"keys":"gzyx_img1,gzyx_img2,gzyx,hero_json,hero_mc_img,bgImage_1,bgImage_2,bgImage_3,bgImage_4,bgImage_5,frontImage_1,frontImage_2,frontImage_3,frontImage_4,frontImage_5,game_over_bg_Image"
+        }
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"file":"hero_mc.png",
+	"res":{
+		"go1":{"x":94,"y":3,"w":41,"h":40,"offX":5,"offY":5,"sourceW":50,"sourceH":50},
+		"go2":{"x":141,"y":3,"w":38,"h":42,"offX":8,"offY":5,"sourceW":50,"sourceH":50},
+		"go3":{"x":185,"y":3,"w":41,"h":39,"offX":5,"offY":5,"sourceW":50,"sourceH":50},
+		"go4":{"x":185,"y":48,"w":38,"h":42,"offX":8,"offY":5,"sourceW":50,"sourceH":50},
+		"stand1":{"x":3,"y":3,"w":41,"h":40,"offX":5,"offY":5,"sourceW":50,"sourceH":50},
+		"stand2":{"x":47,"y":3,"w":41,"h":40,"offX":8,"offY":5,"sourceW":50,"sourceH":50}
+	},
+	"frames":{
+		"go": {
+			"totalFrame": 4,
+			"childrenFrame": [
+				{"res":"go1"},
+				{"res":"go2"},
+				{"res":"go3"},
+				{"res":"go4"}
+			]
+		},
+		"stand": {
+			"totalFrame": 2,
+			"childrenFrame": [
+				{"res":"stand1"},
+				{"res":"stand2"}
+			]
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"file":"gzyx_img1.png",
+	"frames":
+	{
+		"more_1":{"x":1,"y":1,"w":173,"h":60,"offX":0,"offY":0,"sourceW":174,"sourceH":60},
+		"more_2":{"x":176,"y":1,"w":173,"h":60,"offX":0,"offY":0,"sourceW":174,"sourceH":60},
+		"restart_1":{"x":1,"y":63,"w":173,"h":60,"offX":0,"offY":0,"sourceW":174,"sourceH":60},
+		"restart_2":{"x":176,"y":63,"w":173,"h":60,"offX":0,"offY":0,"sourceW":174,"sourceH":60},
+		"share_1":{"x":1,"y":125,"w":173,"h":60,"offX":0,"offY":0,"sourceW":174,"sourceH":60},
+		"share_2":{"x":1,"y":187,"w":173,"h":60,"offX":0,"offY":0,"sourceW":174,"sourceH":60}
+	}
+}
