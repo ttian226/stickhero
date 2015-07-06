@@ -6,5 +6,5 @@
 ![游戏二维码](https://github.com/ttian226/stickhero/blob/master/img/hero1.png)
 
 #### 游戏截图
-![游戏截图1](https://github.com/ttian226/stickhero/blob/master/img/hero1.png)
-![游戏截图2](https://github.com/ttian226/stickhero/blob/master/img/hero2.png)
+![游戏截图1](https://github.com/ttian226/stickhero/blob/master/img/hero2.png)
+![游戏截图2](https://github.com/ttian226/stickhero/blob/master/img/hero3.png)
